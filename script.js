@@ -82,7 +82,7 @@ filterBtns.forEach(btn => {
 document.querySelector('.newsletter-form').addEventListener('submit', function(e) {
     e.preventDefault();
     const email = this.querySelector('input[type="email"]').value;
-    alert('Terima kasih! Email ' + email + ' berhasil didaftarkan untuk newsletter.');
+    alert("Thank you! Your email has been successfully subscribed.");
     this.reset();
 });
 
