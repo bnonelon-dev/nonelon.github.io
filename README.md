@@ -1,4 +1,4 @@
-# 🚀 Modern Portfolio Website Template
+AI Automation & Web Development for Small Businesses
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.0-purple.svg)](https://getbootstrap.com/)
